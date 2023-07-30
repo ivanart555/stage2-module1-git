@@ -3,8 +3,8 @@ Second line second file
 Third line second file
 Fourth line second file
 Fifth line second file
-Sixth line second file
+----------
 Seventh line second file
 Eights line second file
-Ninth line second file
+Bla - bla - bla
 Tenth line second file
