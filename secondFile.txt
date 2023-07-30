@@ -4,7 +4,9 @@ Third line second file
 Fourth line second file
 Fifth line second file
 Sixth new text
+----------
 Seventh line second file
 Eights line second file
 Ninth new text
+Bla - bla - bla
 Tenth line second file
