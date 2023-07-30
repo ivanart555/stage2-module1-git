@@ -1,10 +1,10 @@
 First line
 Second line
 Third line
-Fourth line
+Fourth new text
 Fifth line
 Sixth line
-Seventh line
+Seventh new text
 Eights line
 Ninth line
 Tenth line
