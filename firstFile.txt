@@ -1,5 +1,5 @@
 First line
-Second line
+Second new text second edition
 Third line
 Fourth new text
 Fifth line
@@ -7,4 +7,4 @@ Sixth line
 Seventh new text
 Eights line
 Ninth line
-Tenth line
+Tenth new text second edition
